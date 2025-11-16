@@ -1,1 +1,1 @@
-# search-functionality
+# search-functionality This project adds a search bar that filters blog posts by title or content using a secure prepared statement with SQL LIKE matching. Users can type any keyword, and the page dynamically displays only the posts that match the search term.
